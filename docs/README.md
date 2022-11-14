@@ -1,5 +1,7 @@
 # Geological Walks in Charnwood Forest
 
+![](./media/Picture1.png)
+
 ## Introduction 
 
 The rocks of Charnwood Forest are some of the most ancient in England and Wales. They were formed in Precambrian times, about 700 million years ago, and are hard and resistant, giving a rugged landscape which is unique in the Midlands.
