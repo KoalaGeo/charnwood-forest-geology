@@ -1,6 +1,6 @@
 # Info
 
-Taken from Leaflet produced by Leicestershire Council
+Taken from Leaflet produced by Leicestershire Council - https://github.com/KoalaGeo/charnwood-forest-geology/blob/main/themed-walks-charnwood-forest-geology%20(2).pdf
 
 # INTRODUCTION 
 
