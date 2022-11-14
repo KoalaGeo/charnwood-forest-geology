@@ -2,7 +2,7 @@
 
 ![](./media/Picture1.png)
 
-# Background
+## Background
 
 Reproduced from Leaflet by Leicestershire County Council - [Geological Walks in Charnwood Forest](https://github.com/KoalaGeo/charnwood-forest-geology/blob/main/themed-walks-charnwood-forest-geology.pdf)
 
@@ -50,23 +50,6 @@ SYNCLINE - a basin-shaped fold.	Forest Rocks
 ![](./media/Picture2.png)
 ![](./media/Picture3.png)
 ![](./media/Picture4.png)
-	
-YOUNGES
-ROCKS)
-OLDEST
-ROCKS)	Group	Formations
-	THE
-BRAND
-GROUP	Swithland
-		Brand Hills
-	THE
-MAPLEWELL
-GROUP	Bradgate
-		Beacon Hil
-	THE
-BLACKBROOK
-GROUP	Blackbrook eservolr
-		Ives Head
 
 ## Locations
 
@@ -158,7 +141,7 @@ Just below the top of Ratchet Hill on the Mount St. Bernard side there is a good
 As you follow the path downhill to reach a track you will see good views of the surrounding landscape and in the distance Ives Head containing some of the oldest rocks in Charnwood Forest. Turn right and after about 40m climb a concrete stile into the field beyond. Follow the well-defined path to meet the signpost at the road. Turn right along the road for a short way to the next signpost. Turn right again into a clump of trees following the wall to a stile. Turn left and over the next stile to cross a field to the driveway for Mount St. Bernard Abbey. Bear right to the car park and the Abbey.
 This was founded in 1835 and a permanent Monastery was built in 1844, designed by the famous architect Augustus Welby Pugin. There is a shop open six days a week and a guest house.
 
-!> The abbey is closed after 7.30 pm.
+?> The abbey is closed after 7.30 pm.
 
 To the right of the church you will see a large outcrop. These are rocks from the Maplewell Group, composed of welljointed layers of pink coloured ashes and agglomerate.
 Keeping the car park on your left continue to the corner of the far out-buildings, turning right along a track with a wall on your right. Many walls in the Forest are built of local stone and on closer inspection can reveal interesting features. Look out for 'bombs' in the purple coloured porphyry making up the walls. The well-rounded lumps are thought to have formed either by hot gases within the volcano, or by the downslope movement of material as it was ejected away from the volcano.
@@ -217,7 +200,7 @@ Charnwood Borough Council
 The Lßicestershire and Rutland Trust for Nature Conservation The Abbot, Mount St. Bernard Abbey The Executors of the late Miss J.F. Paget.
 Beacon Hill and Jubilee Wood are owned by the County Council and managed by the Director of Property, County Hall, Glenfield.
 
-!> Geologists who study rocks for scientific purposes need to hammer away samples on many occasions. If everyone did this there would soon be no rocks. so NO HAMMERS ARE ALIDWED AND NO SAMPLES ARE BE TAKEN AWAY.
+!> Geologists who study rocks for scientific purposes need to hammer away samples on many occasions. If everyone did this there would soon be no rocks. so **NO HAMMERS ARE ALLOWED AND NO SAMPLES ARE TO BE TAKEN AWAY.**
 
 Additional information on the geology of Bradgate Park can be found in "The Rocks of Bradgate" by Trevor D. Ford and published by the Bradgate Park Trust.
 
