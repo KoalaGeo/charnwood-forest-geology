@@ -6,10 +6,15 @@
 
 The rocks of Charnwood Forest are some of the most ancient in England and Wales. They were formed in Precambrian times, about 700 million years ago, and are hard and resistant, giving a rugged landscape which is unique in the Midlands.
 The rocks are of two kinds; some are silts and sands laid down in a shallow sea. However, somewhere to the north west active volcanoes erupted ash and lumps of  rock which fell back into the sea and came to rest along with silts and sands on the sea bed. Rock debris eroded from a landmass to the south was also carried into the sea to become mixed with the volcanic debris. Occasional earthquakes caused submarine avalanches, resulting in further mixing and upheaval of the layers of settling sediments. Over many thousands of years, layer upon layer of sediment gradually built up and hardened into rock.
+
 Geologists divide the Charnwood Forest rocks into three Groups. The oldest rocks in the area, the Blackbrook Group, were formed at a time when the volcanoes ejected a more or less continuous rain of dust and ash, building up great thicknesses of sediment. Then followed the Maplewell Group, a series of rocks formed at a time of violent explosions; large lumps of volcanic debris, as well as dust, blasted from the volcano to settle out and form rocks we call agglomerate and tuff. In the course of time the volcanic eruptions became fewer and finally petered out. Although the volcanic activity had ceased, the wind, frost and running water continued to erode the landmass to the south. Rivers carried pebbles and silts to the sea so the build-up of sediments carried on but without the input of volcanic rocks. These rocks are called the Brand Group.
+
 One feature of the rocks you will see on the walks is that some of them are cleaved. Cleavage occurs where the  rocks have been strongly compressed. Minerals in the rock change position and align themselves so that the  rock tends to break in a new direction rather than along the original layers. This occurs more readily in the fine grained sediments; the strong cleavage in some of the  siltstones and volcanic dust rocks of Charnwood allows them to be split thinly and these rocks have been quarried for slate. Good examples of slaty cleavage can be seen around Swithland, Bradgate Park and Woodhouse Eaves.
+
 The thick layers of the Precambrian rocks have suffered sideways compression and have been folded into a large arch-shaped anticline. The top of the anticline has been eroded away revealing a core of the older rocks  belonging to the Blackbrook Group.
+
 Another type of rock which outcrops in the Forest is markfieldite. It is made of the minerals labradorite feldspar, hornblende and quartz, whose alteration has produced an attractive pink and green mottled appearance. Markfieldite has been extensively quarried in the area for building stone and road metal. Inok out for it in and around Leicester, where it has been used for kerbstones, setts and in the walls of churches etc.
+
 In many areas of the Forest, Triassic sedimentary rocks blanket the ancient Precambrian layers. Remember that during Precambrian times much of Charnwood Forest was submerged beneath the sea. The Triassic rocks were formed many millions of years later when the Forest was land under desert conditions. Sandstones and limey mudstones (marls) were deposited, forming layers of red and greyish green sediments. The Triassic sediment cover accounts for the more gentle rolling landscape between  the rugged outcrops of Precambrian rock. Triassic rocks can be seen in Bradgate Park and in some of the quarry sections.
 
 ## Glossary
@@ -33,6 +38,8 @@ SLICKENSIDES — the fine scratches and grooves which develop when one rock surf
 SYNCLINE - a basin-shaped fold.	Forest Rocks
 
 ![](./media/Picture2.png)
+![](./media/Picture3.png)
+![](./media/Picture4.png)
 	
 YOUNGES
 ROCKS)
@@ -51,9 +58,13 @@ BLACKBROOK
 GROUP	Blackbrook eservolr
 		Ives Head
 
+## Locations
+
+![Location Map](./media/Picture5.png)
+
 ## 1. BRADGATE PARK - A CIRCULAR WALK OF ABOUT 6 1/2KM WITH SHORTER ALTERNATIVES TAKING APPROXIMATELY 3 HOURS 
 
-![](./media/Picture6.png)
+![Walk 1](./media/Picture6.png)
 
 The walk starts at the car park at Newtown Linford. Alternatively car parks at Hallgates and Hunts Hill can be used so that you can devise your own routes and shorter lengths to suit yourself.
 Bradgate park is a mediaeval deer park of some 344ha. It has retained much of its original landscape and natural beauty with its small woodlands, grassy slopes and rocky outcrops.
@@ -64,6 +75,13 @@ On reaching a small enclosed group of trees known as Coronation Wood, take a lef
 Over towards the Hallgates end of Coppice Plantation look out for the small outcrops at ground level. They are sediments which were laid down when the volcanic eruptions had come to an end. The main source of  sediment was now from weathering and erosion of the land mass to the south. Pebbles can be seen in the outcrop; they make the rock a conglomerate, and were probably deposited as shingle by a river carrying
 weathered material from adjacent hills. These outcrops are part of the Brand Group already seen at Stable Pit.
 
+![](./media/Picture7.png)
+![](./media/Picture9.png)
+![](./media/Picture10.png)
+![](./media/Picture11.png)
+![](./media/Picture12.png)
+![](./media/Picture13.png)
+
 Bearing round the side of the plantation, turn left, going downhill to join a track to Old John. Go through the gap in the wall, moving slightly to the right to reach a higher path by the side of another wall. You will pass wet heath on your left which can be boggy at times. It is a part of the Charnwood
 Moorland of which Bradgate Park is the largest surviving area. Continue uphill to a covered reservoir and a short stretch of tarmac path. Bear left around Sliding Stone Wood to small groups of silver birch trees. The crags are easily recognisable by the oak tree growing out of a large split in the rocks. The outcrop is composed of agglomerate erupted from the volcanoes to the north west. Towards the right of the outcrop, the original bedding can be made out. Finer grained sediments make up these layers. The once horizontal beds are not tilted and slope towards the south east. Notice the thin laminae, each representing a single eruption of fine dust from the volcano. By the tree and around the Sliding Stone Wood side of the outcrop is a different picture; again the rocks are made up of ash and dust which settled out on the sea floor to form a
 thick "soup", but these beds have been contorted, buckled and torn apart.
@@ -73,6 +91,11 @@ Leaving Old John, go through the adjoining spinney to the War Memorial and crags
 Going downhill, take one of the tracks back to the Newtown Linford car park. Should you have started at Hunts Hill car park, on your return notice through Hunts Hill Wood the scattered boulders. Looking closely you will see that they contain pink fragments in a fine grained mixture of grey ash. The rock was formed by hot rubble blasting out of the volcano, and welding itself together as it came to rest and gradually cooled. This type of rock is called volcanic agglomerate.
 
 ## 2. BARDON AND OLD RISE ROCKS A WALK OF ABOUT 5KM TAKING APPROXIMATELY 1 1/2 HOURS
+
+![](./media/Picture14.png)
+![](./media/Picture15.png)
+![](./media/Picture16.png)
+![](./media/Picture17.png)
 
 Park your car in the lay-by on the north side of the A50 at the footpath sign. Cross a stile into an arable field, following the path with the hedge on your left. This is an ancient boundary of Bardon Deer Park. This large park, part of the Manor of Whitwick, was enclosed from Charnwood Forest in the 13th century. It covered an area of about 510ha (larger than Bradgate Park), and had a perimeter Of nearly 9 1/2km.
 Continue until a house comes into view amongst. trees in the left hand corner of the third field. Enter the next field for about 10m. Old Rise Rocks can be seen on the right, although there is  no public access to them. They form part of the Maplewell Group, and are made up of interbedded layers ashes and dust tuffs. The layers tilt away from the Charnwood Forest anticline; a better view of this structure will be seen from the top of Bardon Hill.
@@ -141,9 +164,18 @@ The reservoir has flooded the original deep gorge of the Blackbrook. It is from 
 
 ## 5. BLACKBROOK RESERVOIR A WALK OF 1.6KM TAKING ABOUT % OF AN HOUR 
 
+![](./media/Picture18.png)
+![](./media/Picture19.png)
+
 Bear left down a short slope on a well-defined path. This is not This walk of about 800m to Blackbrook Reservoir is waymarked  	a public right Of way but kind permission has been given by the to One Barrow Lane and starts on the north side of Oaks Road,Trust. Please follow the marked route, keeping all dogs on leads. about 100m east of the entrance to Mount St. Bernard Abbey. AtWith the wall on your left, continue beyond a clump of silver the signpost, go through the gap in the wall and following thebirch trees to a large outcrop near the path on your right. yellow waymarks, continue through mixed deciduous woodlandThe rocks here belong to the Maplewell Group. They and bracken to a stile near a track. Enter the next field and as youwere laid down at a time of great explosive volcanic continue downhill pleasant views of Blackbrook Reservoir comeactivity. The middle section of the lower outerops show breccias, where large blocks of rock have been crushed and folded and incorporated amongst a mix of finer grained rock. Blocks of slate up to half a metre in length have been found in the breccia. These blocks can be easily recognised in the rock face, because they have been weathered to striking white, red and green colours.
 
 ## 6. WARREN HILLS - A CIRCULARImmediately to the left WALK OF ABOUT 2 1/2KM TAKING of this section is a very APPROXIMATELY 1 HOUR
+
+![](./media/Picture20.png)
+![](./media/Picture21.png)
+![](./media/Picture22.png)
+![](./media/Picture23.png)
+![](./media/Picture24.png)
 
 different kind of rock called porphyry, recognis. Start at the lay-by on the north side ofB587. Go through theable by its distinctive dark kissing gate into the Nature Reserve of the Leicestershire andpurple colour. It was Rutland Trust for Nature Conservation. Once known as Highformed when hot, liquid Towers or High Tors, Warren Hills is unusual for its craggyrock was injected into the moorland landscape with purple moor grass and bracken. Gosurrounding rocks. Some across a field to a gap in a wall. Bearing left through an opening inof the liquid cooled and another wall, you will see a jagged and needle-like line of outcropscrystallised slowly and so beyond.formed large crystals, but
  
