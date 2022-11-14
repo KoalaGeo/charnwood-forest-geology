@@ -30,7 +30,7 @@ SEDIMENTARY ROCK - formed from the wearing away of pre-existing rocks, the weath
 SLICKENSIDES — the fine scratches and grooves which develop when one rock surface grinds against another, for example during faulting.	Main Divisions of
 SYNCLINE - a basin-shaped fold.	Forest Rocks
 
-![](./media/picture2.png)
+![](./media/Picture2.png)
 	
 YOUNGES
 ROCKS)
@@ -51,7 +51,7 @@ GROUP	Blackbrook eservolr
 
 ## 1. BRADGATE PARK - A CIRCULAR WALK OF ABOUT 6 1/2KM WITH SHORTER ALTERNATIVES TAKING APPROXIMATELY 3 HOURS 
 
-![](./media/picture6.png)
+![](./media/Picture6.png)
 
 The walk starts at the car park at Newtown Linford. Alternatively car parks at Hallgates and Hunts Hill can be used so that you can devise your own routes and shorter lengths to suit yourself.
 Bradgate park is a mediaeval deer park of some 344ha. It has retained much of its original landscape and natural beauty with its small woodlands, grassy slopes and rocky outcrops.
