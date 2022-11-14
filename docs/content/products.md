@@ -1,3 +1,0 @@
-# BGS Products
-
-BGS make a range of geospatial products....
