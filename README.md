@@ -1,4 +1,4 @@
-# Info
+# Background
 
 Taken from Leaflet produced by Leicestershire Council - [Geological Walks in Charnwood Forest](https://github.com/KoalaGeo/charnwood-forest-geology/blob/main/themed-walks-charnwood-forest-geology%20(2).pdf)
 
@@ -7,7 +7,9 @@ Other titles of interest:
 - [18 WALKS IN AND AROUND THE CHARNWOOD FOREST REGIONAL PARK](https://github.com/KoalaGeo/charnwood-forest-geology/blob/main/walks-around-charnwood-edited-updatedjul21.pdf)
 - [Exploring the landscape of Charnwood Forest and Mountsorrel](https://shop.bgs.ac.uk/Shop/Product/BSP_CHARNWOOD)
 
-# INTRODUCTION 
+# Geological Walks in Charnwood Forest
+
+## Introduction 
 
 The rocks of Charnwood Forest are some of the most ancient in England and Wales. They were formed in Precambrian times, about 700 million years ago, and are hard and resistant, giving a rugged landscape which is unique in the Midlands.
 The rocks are of two kinds; some are silts and sands laid down in a shallow sea. However, somewhere to the north west active volcanoes erupted ash and lumps of  rock which fell back into the sea and came to rest along with silts and sands on the sea bed. Rock debris eroded from a landmass to the south was also carried into the sea to become mixed with the volcanic debris. Occasional earthquakes caused submarine avalanches, resulting in further mixing and upheaval of the layers of settling sediments. Over many thousands of years, layer upon layer of sediment gradually built up and hardened into rock.
@@ -17,7 +19,8 @@ The thick layers of the Precambrian rocks have suffered sideways compression and
 Another type of rock which outcrops in the Forest is markfieldite. It is made of the minerals labradorite feldspar, hornblende and quartz, whose alteration has produced an attractive pink and green mottled appearance. Markfieldite has been extensively quarried in the area for building stone and road metal. Inok out for it in and around Leicester, where it has been used for kerbstones, setts and in the walls of churches etc.
 In many areas of the Forest, Triassic sedimentary rocks blanket the ancient Precambrian layers. Remember that during Precambrian times much of Charnwood Forest was submerged beneath the sea. The Triassic rocks were formed many millions of years later when the Forest was land under desert conditions. Sandstones and limey mudstones (marls) were deposited, forming layers of red and greyish green sediments. The Triassic sediment cover accounts for the more gentle rolling landscape between  the rugged outcrops of Precambrian rock. Triassic rocks can be seen in Bradgate Park and in some of the quarry sections.
 
-GIDSSARY 
+## Glossary
+
 ANTICLINE — an arch-shaped fold
 AZURITE — a blue copper mineral, a valuable ornamental stone.
 AGGLOMERATE — a volcanic rock with fragments mainly larger than 2cm.
@@ -54,10 +57,8 @@ BLACKBROOK
 GROUP	Blackbrook eservolr
 		Ives Head
 
-1. BRADGATE PARK - A CIRCULAR
-WALK OF ABOUT 6 1/2KM WITH
-SHORTER ALTERNATIVES
-TAKING APPROXIMATELY 3 HOURS 
+## 1. BRADGATE PARK - A CIRCULAR WALK OF ABOUT 6 1/2KM WITH SHORTER ALTERNATIVES TAKING APPROXIMATELY 3 HOURS 
+
 The walk starts at the car park at Newtown Linford. Alternatively car parks at Hallgates and Hunts Hill can be used so that you can devise your own routes and shorter lengths to suit yourself.
 Bradgate park is a mediaeval deer park of some 344ha. It has retained much of its original landscape and natural beauty with its small woodlands, grassy slopes and rocky outcrops.
 Take the main tarmac carriageway through Little Matlock Gorge of the River Lin. Notice the massive 'blocky' nature of the rock, clearly different from the layered sedimentary rocks at other sites in the Park. The outcrop is made up of the intrusive igneous rock markfieldite. Continue along the carriageway towards the ruins of Bradgate House but turn right over the bridge. Follow the path, into a shallow grassy basin to rocks known as Stable Pit. The main outcrop is made up of siltstones. Single grains of quartz can be made out, in some cases coated with the red mineral hematite. The rocks belong to the Brand Group; they are younger than the volcanic rocks seen in other  parts of the Park, and represent a quieter time when the volcanic activity had ceased. The siltstones have been distorted; looking towards the top of the outcrop you will see patches of white crystalline quartz in tension gashes which formed as a result of shearing of the rock when it folded. In the corner of the pit is a very weathered, narrow strip of rock running vertically up the outcrop. The rock is a dyke of markfieldite, an offshoot of the much larger intrusion at Little Matlock Gorge.
@@ -75,8 +76,8 @@ Move on to Old John, a Folly Tower, built in 1786 of local stone, in memory of E
 Leaving Old John, go through the adjoining spinney to the War Memorial and crags beyond. This prominent outcrop is made up of more volcanic sediments of the same type as at the Sliding Stone, and part of the Maplewell Group. The original layers dip steeply away from the War Memorial. Important Pre-cambrian fossils have been found in rocks of the Maplewell Group. Small fronds and disc-like impressions, they are thought to have been formed by primitive animals rather like sea-pens and modern jellyfish. Specimens of these rare Charnwood fossils can be seen at New Walk Museum, Leicester.
 Going downhill, take one of the tracks back to the Newtown Linford car park. Should you have started at Hunts Hill car park, on your return notice through Hunts Hill Wood the scattered boulders. Looking closely you will see that they contain pink fragments in a fine grained mixture of grey ash. The rock was formed by hot rubble blasting out of the volcano, and welding itself together as it came to rest and gradually cooled. This type of rock is called volcanic agglomerate.
 
-2. BARDON AND OLD RISE ROCKS A WALK OF ABOUT 5KM TAKING
-APPROXIMATELY 1 1/2 HOURS
+## 2. BARDON AND OLD RISE ROCKS A WALK OF ABOUT 5KM TAKING APPROXIMATELY 1 1/2 HOURS
+
 Park your car in the lay-by on the north side of the A50 at the footpath sign. Cross a stile into an arable field, following the path with the hedge on your left. This is an ancient boundary of Bardon Deer Park. This large park, part of the Manor of Whitwick, was enclosed from Charnwood Forest in the 13th century. It covered an area of about 510ha (larger than Bradgate Park), and had a perimeter Of nearly 9 1/2km.
 Continue until a house comes into view amongst. trees in the left hand corner of the third field. Enter the next field for about 10m. Old Rise Rocks can be seen on the right, although there is  no public access to them. They form part of the Maplewell Group, and are made up of interbedded layers ashes and dust tuffs. The layers tilt away from the Charnwood Forest anticline; a better view of this structure will be seen from the top of Bardon Hill.
 Retrace your steps into the previous field. Turn right through a gap in the wall and right again. Follow the headland around the arable field and go down the hill. Continuing with the hedge on your right, enter the next field. You may see clumps of yellow flowered lesser spearwort (Ranunculus flammula) which flowers during the Summer and early Autumn.
@@ -86,15 +87,10 @@ Continue through trees to meet a metalled track, crossing a field to outbuilding
 Go over another fence, along a track and across a driveway. Bearing slightly to the right, continue up a short grassy slope to a notice of blasting times and a public footpath sign.
 The footpath now winds upwards to the summit of Bardon Hill, the highest point in Charnwood Forest and Leicestershire at 278m. On the way it passes through a scots pine plantation also containing birch, oak and rowan, which changes to oak scrub amongst rocky outcrops as you continue to the top. On reaching a small open space, a few metres left of a brick building near a mast, pause here to look back in a south-easterly direction. Good views can be seen of Old Rise Rocks, the disused Markfield Quarry and to the right Cliff Hill Quarry and Billa Barra. Continue to the trigonometrical point on the left and the fenced off Bardon Quarry below. Bardon Quarry is made up of a complicated series of volcanic breccias and porphyries. Some of the rock was ejected on to the surface as lava while some rock cooled and crystallized below ground. Faulting has crushed the original rock to form breccias. The dark red, nearly horizontal beds towards the top of the quarry face were formed many millions of years after the igneous rocks that are being quarried here. The sedimentary rocks are of Triassic age; they formed about 210 million years ago in desert conditions. Flash floods carried boulders and rubble, carving out river valleys called wadis. Beneath the sedimentary cover, mineralised fluids worked their way down into faults and fractures in the igneous rock below, depositing copper and lead minerals such as green malachite, bright blue azurite, and grey metallic galena. Gold has been found in the area of Bardon Quarry, but in very small quantities and certainly not enough to start a gold rush!
 The igneous rock of Bardon is an important source of roadstone and extensive quarrying has removed a large part Of Bardon Hill. Charnwood Forest, with six hard rock quarries, is England's foremost source of roadstone.
-Retrace your steps over the footbridge, turning right at the stile in the fence. Keep the hedgeline on your right and continue to  Old Hall Cottage, an attractive area with a moat and pond. The
- 
+Retrace your steps over the footbridge, turning right at the stile in the fence. Keep the hedgeline on your right and continue to  Old Hall Cottage, an attractive area with a moat and pond. The moat marks the site of Bardon Park Hall demolished in 1840. The new Hall (built in 1835) can be seen about 800m away on the south side of Bardon Hill. Turn left over the bridge by the pond and bear right at the left side of the field. Continue to a gap in the hedge, in the second field, turning right over a small footbridge to return to the lay-by.
 
-moat marks the site of Bardon Park Hall demolished in 1840. The new Hall (built in 1835) can be seen about 800m away on the south side of Bardon Hill.
-Turn left over the bridge by the pond and bear right at the left side of the field.
-Continue to a gap in the hedge, in the second field, turning right over a small footbridge to return to the lay-by.
+## 3. OUTWOODS AND BUCK HILL - A CIRCULAR WALK OF ABOUT 5 1/2KM TAKING APPROXIMATELY 2 1/2 HOURS
 
-3. OUTWOODS AND BUCK HILL -
-A CIRCULAR WALK OF ABOUT 5 1/2KM TAKING APPROXIMATELY 2 1/2 HOURS
 This walk starts at the Outwoods, an area of about 44ha of mixed oak and coniferous woodland. This is an ancient forest site and although most of the original oak has been felled and re-planted, it still retains a rich flora and fauna.
 The path goes to the left of the car park and around the toilets. Take a left fork and then immediately a right fork through bracken and brambles to conifers beyond.
 Bear slightly left by small rhododendron bushes. Continue  down the slope, noticing as you pass the needle covered woodland floor and the absence of smaller woodland plants. The soil here is very acidic and because of this and the shade, these plants cannot exist.
@@ -125,15 +121,16 @@ An attractive alternative is the use Of the Lower Beacon Car
 Park off Breakback Road (signposted to Outwoods and Nanpantan) and walking the mile through rhododendrons and silver birch trees.
 Beacon Hill, a Hill Fort, probably dating from the late Bronze Age, is the second highest point in Charnwood Forest at 248m. To the west are views of Bardon Hill and the volcanic centre of Whitwick. Over to the east is the Soar Valley with its associated younger layers lapping against the ancient arch of Precambrian rocks on which you are standing. The Beacon Hill rocks belong to the Maplewell Group, and are composed of very fine grained dust tuffs with occasional layers of coarser tuff. The fine grained layers are rich in flint-like silica, and are often referred to as hornstones; although green when freshly broken, the rocks tend to weather to a white or creamy colour. Folding has formed a srnall syncline, and sideways compression has resulted in crumpling of the layers into a basin-shaped fold, in this case tilted down towards the east.
 
-4. PELDAR TORAND MOUNT ST. BERNARD ABBEY - A CIRCULAR 
-WALK OF ABOUT 5KM TAKING
-APPROXIMATELY 2 HOURS
+## 4. PELDAR TORAND MOUNT ST. BERNARD ABBEY - A CIRCULAR WALK OF ABOUT 5KM TAKING APPROXIMATELY 2 HOURS
+
 This walk starts from the north side ofB587 in Whitwick close to Hogarth Road. Take the signposted track that runs alongside a white house. This well-used path climbs steadily to Ratchet Hill. It leads past grassy verges with harebells in summer and blackberries in the autumn. The rocks can be seen on the left amongst the trees.
 Most of the outcrops seen on this section of the walk are porphyries. They are the same rock type that occurs in the area of the remnant volcano at Peldar Tor which you will be able to see later in the walk. The rock has a dark purple or black colour which sometimes weathers to white.
 Just below the top of Ratchet Hill on the Mount St. Bernard side there is a good view of one of the outcrops from this side of the wall. Again the rock is porphyry, but notice the paler coloured lumps of rock incorporated amongst it. The lumps are pieces of volcanic breccia which have been caught up in the flow of porphyry lava. Some patches of lava are a little different; they cooled very quickly to form a glass. The porphyry lava however cooled more slowly and consists of a mixture of large crystals in a mesh of smaller crystals.
 As you follow the path downhill to reach a track you will see good views of the surrounding landscape and in the distance Ives Head containing some of the oldest rocks in Charnwood Forest. Turn right and after about 40m climb a concrete stile into the field beyond. Follow the well-defined path to meet the signpost at the road. Turn right along the road for a short way to the next signpost. Turn right again into a clump of trees following the wall to a stile. Turn left and over the next stile to cross a field to the driveway for Mount St. Bernard Abbey. Bear right to the car park and the Abbey.
 This was founded in 1835 and a permanent Monastery was built in 1844, designed by the famous architect Augustus Welby Pugin. There is a shop open six days a week and a guest house.
-The abbey is closed after 7.30 pm.
+
+!> The abbey is closed after 7.30 pm.
+
 To the right of the church you will see a large outcrop. These are rocks from the Maplewell Group, composed of welljointed layers of pink coloured ashes and agglomerate.
 Keeping the car park on your left continue to the corner of the far out-buildings, turning right along a track with a wall on your right. Many walls in the Forest are built of local stone and on closer inspection can reveal interesting features. Look out for 'bombs' in the purple coloured porphyry making up the walls. The well-rounded lumps are thought to have formed either by hot gases within the volcano, or by the downslope movement of material as it was ejected away from the volcano.
 Follow the track to the far corner. Bear right and walk up to the field boundary, keeping a house on your left. Go over the stile and with the wall on your right continue to the fence and gorse bushes beyond. Follow the winding path to a stile into a field which you cross to a concrete stile. Take the path through trees to reach a T-junction with a quarry track. Turn right and after a short distance you will come to an impressive view of Peldar Tor Quarry.
@@ -146,15 +143,13 @@ into sight. The original reservoir was built in 1796 to feed the Charnwood Fores
 At the bottom of the field turn right, crossing an area, sometimes muddy, to a stile into One Barrow Lane. Turn left here and go over the bridge.
 The reservoir has flooded the original deep gorge of the Blackbrook. It is from this area that the Blackbrook Group of rocks were named. Here are some of the earliest formed rocks in Charnwood Forest and hence the oldest. They were formed by a more or less continuous rain of dust from the volcano which built up great thicknesses of a sediment. The noticeable red staining of the rock is	 caused by the presence of the iron mineral hematite. Examples of the rock formation can be seen in the high rocky
 
-5. BLACKBROOK RESERVOIR A WALK OF 1.6KM TAKING ABOUT
-% OF AN HOUR 
-Bear left down a short slope on a well-defined path. This is not
-This walk of about 800m to Blackbrook Reservoir is waymarked  	a public right Of way but kind permission has been given by the to One Barrow Lane and starts on the north side of Oaks Road,Trust. Please follow the marked route, keeping all dogs on leads. about 100m east of the entrance to Mount St. Bernard Abbey. AtWith the wall on your left, continue beyond a clump of silver the signpost, go through the gap in the wall and following thebirch trees to a large outcrop near the path on your right. yellow waymarks, continue through mixed deciduous woodlandThe rocks here belong to the Maplewell Group. They and bracken to a stile near a track. Enter the next field and as youwere laid down at a time of great explosive volcanic continue downhill pleasant views of Blackbrook Reservoir comeactivity. The middle section of the lower outerops show breccias, where large blocks of rock have been crushed and folded and incorporated amongst a mix of finer grained rock. Blocks of slate up to half a metre in length have been found in the breccia. These blocks can be easily recognised in the rock face, because they have been
-weathered to striking white, red and green colours.
+## 5. BLACKBROOK RESERVOIR A WALK OF 1.6KM TAKING ABOUT % OF AN HOUR 
 
-6. WARREN HILLS - A CIRCULARImmediately to the left
-WALK OF ABOUT 2 1/2KM TAKINGof this section is a very
-APPROXIMATELY 1 HOURdifferent kind of rock called porphyry, recognis. Start at the lay-by on the north side ofB587. Go through theable by its distinctive dark kissing gate into the Nature Reserve of the Leicestershire andpurple colour. It was Rutland Trust for Nature Conservation. Once known as Highformed when hot, liquid Towers or High Tors, Warren Hills is unusual for its craggyrock was injected into the moorland landscape with purple moor grass and bracken. Gosurrounding rocks. Some across a field to a gap in a wall. Bearing left through an opening inof the liquid cooled and another wall, you will see a jagged and needle-like line of outcropscrystallised slowly and so beyond.formed large crystals, but
+Bear left down a short slope on a well-defined path. This is not This walk of about 800m to Blackbrook Reservoir is waymarked  	a public right Of way but kind permission has been given by the to One Barrow Lane and starts on the north side of Oaks Road,Trust. Please follow the marked route, keeping all dogs on leads. about 100m east of the entrance to Mount St. Bernard Abbey. AtWith the wall on your left, continue beyond a clump of silver the signpost, go through the gap in the wall and following thebirch trees to a large outcrop near the path on your right. yellow waymarks, continue through mixed deciduous woodlandThe rocks here belong to the Maplewell Group. They and bracken to a stile near a track. Enter the next field and as youwere laid down at a time of great explosive volcanic continue downhill pleasant views of Blackbrook Reservoir comeactivity. The middle section of the lower outerops show breccias, where large blocks of rock have been crushed and folded and incorporated amongst a mix of finer grained rock. Blocks of slate up to half a metre in length have been found in the breccia. These blocks can be easily recognised in the rock face, because they have been weathered to striking white, red and green colours.
+
+## 6. WARREN HILLS - A CIRCULARImmediately to the left WALK OF ABOUT 2 1/2KM TAKING of this section is a very APPROXIMATELY 1 HOUR
+
+different kind of rock called porphyry, recognis. Start at the lay-by on the north side ofB587. Go through theable by its distinctive dark kissing gate into the Nature Reserve of the Leicestershire andpurple colour. It was Rutland Trust for Nature Conservation. Once known as Highformed when hot, liquid Towers or High Tors, Warren Hills is unusual for its craggyrock was injected into the moorland landscape with purple moor grass and bracken. Gosurrounding rocks. Some across a field to a gap in a wall. Bearing left through an opening inof the liquid cooled and another wall, you will see a jagged and needle-like line of outcropscrystallised slowly and so beyond.formed large crystals, but
  
 then at some stage the rock must have finished crystallising quickly so that only very small crystals had time to grow; the result is a type of rock which has large crystals in a fine grained mesh of smaller crystals. Look closely to see this in the outcrop.
 The path continues through a small group of trees. Notice as
@@ -164,7 +159,8 @@ As you enter the next field to reach the far wall, good views of Whitwick and Ba
 On your right you will notice another outcrop. The rocks at this end of Warren Hills are fine grained layers of dust tuffs rather like those seen at Beacon Hill and Buck Hill. Notice the original layering of the rock and see how steeply tilted they now are. A strong vertical cleavage has given the rocks a sharp jagged outline.
 To complete the circular route take the path on the left opposite the gate near the road. Climb the gentle slope to reach a wall on your left. Continue on this path to return to the lay-by, pausing to look back at views of the Abbey and surrounding landscape.
 
-OTHER PLACES OF GEOLOGICAL INTEREST
+## OTHER PLACES OF GEOLOGICAL INTEREST
+
 There are other places of geological interest which can be visited by the public. Swithland Slate Quarries
 Swithland Wood, managed by the Bradgate Park Trustees, as part of the Bradgate Park Country Park, has a number of deep slate quarries, the legacy of a oncethriving Charnwood Forest industry.
 The 'slaty' cleavages, caused by a strong compression in the rocks, allows them to be split easily into thin sheets. The Romans used this material mainly for roofing purposes and Swithland Wood was almost certainly quarried by them during the period 100-400 A.D.
@@ -175,17 +171,19 @@ Altar Stones, Markfield
 The Altar Stones date from the Pre-Cambrian period consisting of well-bedded volcanic ash tufts together with slump breccia rocks. The site is regarded as the most important exposure in Charnwood Forest of the slump breccia rock type.
 Access is along Altar Stones Lane near the A50  Markfield bypass. From the road, the large rock outcrop can be seen on the right amongst scrub and gorse.
 
-ACKNOWLEDGEMENTS 
+## ACKNOWLEDGEMENTS 
 This leaflet has been prepared by Leicestershire County Council  Planning and Transportation Department with considerable help from the Geology Section of the County Museums Service. Our gratefll thanks also go to the following for their generous co-operation:
 A.R.C. Limited, Eastern Region Bardon Hill Quarries Ltd.
 Bradgate Park Trustees
 Charnwood Borough Council
 The Lßicestershire and Rutland Trust for Nature Conservation The Abbot, Mount St. Bernard Abbey The Executors of the late Miss J.F. Paget.
 Beacon Hill and Jubilee Wood are owned by the County Council and managed by the Director of Property, County Hall, Glenfield.
-Geologists who study rocks for scientific purposes need to hammer away samples on many occasions. If everyone did this there would soon be no rocks. so NO HAMMERS ARE ALIDWED AND NO SAMPLES ARE BE TAKEN AWAY.
+
+!> Geologists who study rocks for scientific purposes need to hammer away samples on many occasions. If everyone did this there would soon be no rocks. so NO HAMMERS ARE ALIDWED AND NO SAMPLES ARE BE TAKEN AWAY.
+
 Additional information on the geology of Bradgate Park can be found in "The Rocks of Bradgate" by Trevor D. Ford and published by the Bradgate Park Trust.
 
-FOR YOUR GUIDANCE
+## FOR YOUR GUIDANCE
  
 On all the walks, but especially at Peldar Tor, Warren Hills and Blackbrook — please ensure that you park your car safely and without inconvenience to others.
 You will find that most walks will be easy to follow from the guidance in this leaflet. In a few places yellow waymarker arrows have been provided to assist you, and for greater clarity some of these will have a distinctive red diamond.
