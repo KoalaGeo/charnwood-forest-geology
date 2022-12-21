@@ -90,6 +90,8 @@ TUFF - volcanic ash which has been cemented into solid rock.
 
 ![Location Map](./media/location.PNG)
 
+[map](map/index.html ':include')
+
 ## Walk 1 - Bradgate Park (6.5 km / 3 hrs)
 
 **A circular walk of about 6.5 km with shorter alternatives taking approximately 3 hours.**
