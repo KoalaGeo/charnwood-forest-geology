@@ -345,19 +345,27 @@ var onSingleClick = function(evt) {
     }
     
     var viewProjection = map.getView().getProjection();
-    var viewResolution = map.getView().getResolution();
-    for (i = 0; i < wms_layers.length; i++) {
-        if (wms_layers[i][1]) {
-            var url = wms_layers[i][0].getSource().getGetFeatureInfoUrl(
-                evt.coordinate, viewResolution, viewProjection,
-                {
-                    'INFO_FORMAT': 'text/html',
-                });
-            if (url) {
-                popupText = popupText + '<iframe style="width:100%;height:110px;border:0px;" id="iframe" seamless src="' + url + '"></iframe>';
+        var viewResolution = map.getView().getResolution();
+            for (i = 0; i < wms_layers.length; i++) {		
+                if (wms_layers[i][1] && wms_layers[i][0].getVisible()) {
+                    var url = wms_layers[i][0].getSource().getFeatureInfoUrl(
+                        evt.coordinate, viewResolution, viewProjection,
+                        {
+                            'INFO_FORMAT': 'text/html',
+                        });
+                    if (url) {
+                        const layer = wms_layers[i][0];
+                        content.innerHTML = '';
+                        fetch('https://api.allorigins.win/raw?url=' + encodeURIComponent(url))
+                        .then((response) => response.text())
+                        .then((html) => {
+                            overlayPopup.setPosition(coord);
+                            content.innerHTML += html + '<p>' + '</p>';
+                            container.style.display = 'block';
+                      });	
+                    }	
+                }
             }
-        }
-    }
 
     if (popupText) {
         overlayPopup.setPosition(coord);
